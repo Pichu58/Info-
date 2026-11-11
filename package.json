@@ -1,1 +1,0 @@
-{"name":"discord-forms-bot","version":"1.2.0","description":"Discord static forms button bot with Google Sheets integration","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"discord.js":"^14.25.1","dotenv":"^17.2.3","googleapis":"^171.0.0"}}
